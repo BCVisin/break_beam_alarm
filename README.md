@@ -26,3 +26,7 @@ I am using the following hardware:
  - When either bypass button is pushed it will silense and reset the alarms
  - When either bypass button is pushed it will give a grace period (5 seconds?) to pass through the beams without alarms being triggered
  - Ability to run neither, one or the other, or both laser sensors at any give time
+
+###Notes
+
+The script MUST be ran as root since it needs access to the Pi's GPIO ports.
