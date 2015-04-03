@@ -21,8 +21,8 @@ AUDIO = False
 VOLUME = '10'
 
 #The MP3 files of the alarms (They will loop)
-ALARM1_AUDIO_FILE = '/home/pi/alarms/alarm1.mp3'
-ALARM2_AUDIO_FILE = '/home/pi/alarms/alarm2.mp3'
+ALARM1_AUDIO_FILE = 'alarms/alarm1.mp3'
+ALARM2_AUDIO_FILE = 'alarms/alarm2.mp3'
 
 #set up some variables
 PROCESS = None
