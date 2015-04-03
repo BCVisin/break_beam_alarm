@@ -17,6 +17,8 @@ I am using the following hardware:
  8. USB Powered Speakers - To play various alarm sounds https://www.adafruit.com/products/1363
  9. Various resistors for LEDs and the photo cel
 
+![Image of Test Setup](https://raw.githubusercontent.com/BCVisin/break_beam_alarm/master/photos/test_setup_3.jpg)
+
 ###Requirements
 
  - A laser sensor across 2 door frame
