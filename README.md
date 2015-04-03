@@ -4,17 +4,17 @@ A dual laser break beam sensor system.
 
 ###Details
 
-We needed to set up an alarm system on 2 doors that lead out to the pool area so we would be notified if our children walked outside.  I didn't like the door alarm systems since the don't work on the sliding door and the screen door.  I wanted a system that checked to see if anyone crossed the door threshold.  A break beam system was in order.
+I needed to set up an alarm system on 2 doors that lead out to the pool area so we will be notified if our children walked outside.  I didn't like the door alarm systems like this http://amzn.com/B0046786U4 since they don't work on the sliding door and the screen door. I wanted a system that checked to see if anyone crossed the door threshold.  A break beam system was in order. I thought the Pi would be a great at this and it would be a fun little project.
 
 I am using the following hardware:
- 1. Raspberry Pi A+ http://amzn.com/B00PEX05TO
- 2. Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter http://amzn.com/B003MTTJOY
- 3. Kingston Digital 8 GB microSDHC http://amzn.com/B004S1PNE0
- 4. Anker 10000mAh Battery Power Bank http://amzn.com/B009USAJCC
- 5. 2x Laser Diode https://www.adafruit.com/products/1054
- 6. 2x Photo Cel (CdS photoresistor) https://www.adafruit.com/products/161
- 7. 3x Square Buttons https://www.adafruit.com/products/1010
- 8. USB Powered Speakers https://www.adafruit.com/products/1363
+ 1. Raspberry Pi A+ - The brains http://amzn.com/B00PEX05TO
+ 2. Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter - To connect the Pi to the network http://amzn.com/B003MTTJOY
+ 3. Kingston Digital 8 GB microSDHC - The Pi's memory http://amzn.com/B004S1PNE0
+ 4. Anker 10000mAh Battery Power Bank - In case of power outage to keep the system running http://amzn.com/B009USAJCC
+ 5. 2x Laser Diode - LASERS (need I say more?) https://www.adafruit.com/products/1054
+ 6. 2x Photo Cel (CdS photoresistor) - To detect the light changes when the laser beam is broken, https://www.adafruit.com/products/161
+ 7. 3x Square Buttons - Tactile reset buttons https://www.adafruit.com/products/1010
+ 8. USB Powered Speakers - To play various alarm sounds https://www.adafruit.com/products/1363
  9. Various resistors for LEDs and the photo cel
 
 ###Requirements
