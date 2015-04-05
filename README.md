@@ -18,8 +18,6 @@ I am using the following hardware:
  9. MCP3008 - 8-Channel 10-Bit ADC - http://www.adafruit.com/products/856
  10. Various resistors for LEDs and the photo cel
 
-![Image of Test Setup](https://raw.githubusercontent.com/BCVisin/break_beam_alarm/master/photos/test_setup_3.jpg)
-
 ###Requirements
 
  - A laser sensor across 2 door frame
@@ -29,6 +27,10 @@ I am using the following hardware:
  - When either bypass button is pushed it will silense and reset the alarms
  - When either bypass button is pushed it will give a grace period (5 seconds?) to pass through the beams without alarms being triggered
  - Ability to run neither, one or the other, or both laser sensors at any give time
+
+###Images
+![Image of Test Setup](https://raw.githubusercontent.com/BCVisin/break_beam_alarm/master/photos/test_setup_3.jpg)
+![Image of Circuit](https://raw.githubusercontent.com/BCVisin/break_beam_alarm/master/design/break_beam_alarm-V1_bb.png)
 
 ###Notes
 
