@@ -15,7 +15,8 @@ I am using the following hardware:
  6. 2x Photo Cel (CdS photoresistor) - To detect the light changes when the laser beam is broken, https://www.adafruit.com/products/161
  7. 3x Square Buttons - Tactile reset buttons https://www.adafruit.com/products/1010
  8. USB Powered Speakers - To play various alarm sounds https://www.adafruit.com/products/1363
- 9. Various resistors for LEDs and the photo cel
+ 9. MCP3008 - 8-Channel 10-Bit ADC - http://www.adafruit.com/products/856
+ 10. Various resistors for LEDs and the photo cel
 
 ![Image of Test Setup](https://raw.githubusercontent.com/BCVisin/break_beam_alarm/master/photos/test_setup_3.jpg)
 
